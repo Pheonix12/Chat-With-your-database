@@ -42,6 +42,7 @@ pip install -r requirements.txt
 #### For MySQL
 Create a `.env` file in the root directory with the following content:
 ```env
+OPENAI_API_KEY=your_api_key
 DB_USER=your_username
 DB_PASSWORD=your_password
 DB_HOST=localhost
@@ -52,6 +53,7 @@ DB_NAME=your_database
 #### For Azure SQL Server
 Create a `.env` file in the root directory with the following content:
 ```env
+OPENAI_API_KEY=your_api_key
 DB_USER=your_username
 DB_PASSWORD=your_password
 DB_HOST=your_host
