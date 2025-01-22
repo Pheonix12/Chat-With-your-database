@@ -87,9 +87,6 @@ streamlit run chat_sql_azure.py
 - **Aggregation**: What is the average salary by department?
 - **Filtering**: Which employees were hired after 2020?
 
-## Screenshots
-
-![Screenshot of Chatbot](screenshot.png)
 
 ## Contribution
 
